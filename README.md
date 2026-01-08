@@ -36,6 +36,10 @@ This project is **fully designed and implemented by the developer**, including f
 * Node.js & Express.js / Flask / FastAPI
 * RESTful APIs
 
+Demo Video
+
+https://drive.google.com/file/d/1xYoh35sj9f-ZR-dSR0e-fzSGc2zIxYrQ/view?usp=drive_link
+
 ### AI & Logic Layer
 
 * Custom AI logic integrated using LLM-based APIs
