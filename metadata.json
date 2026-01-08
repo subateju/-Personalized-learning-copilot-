@@ -1,0 +1,8 @@
+{
+  "name": "Spark Study – AI Learning Copilot",
+  "description": "An AI-powered academic assistant for college students to manage syllabus planning, learn from materials via RAG-based chat, and track progress.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
